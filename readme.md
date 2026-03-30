@@ -1,6 +1,6 @@
 # Repo for our final project for STATUN3106
 
-Data for prototype found here: https://drive.google.com/drive/folders/1jCiyZXjfM_WbXjYdRZQ7UmJgIfW58mCO?usp=sharing
+Data for prototype found here: https://drive.google.com/drive/folders/1Fg0yI3b-sTj-eAipAjZon-CvyojZuq23?usp=sharing
 
 ## Setup
 Add this cell to the top of every notebook before running. 
