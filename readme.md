@@ -4,7 +4,7 @@
 
 ## Blog Post Webpage
 
-[STATUN3106-LaMem.bg2782.net](https://STATUN3106-LaMem.bg2782.net/#blog-post)
+[STATUN3106-LaMem.bg2782.net](https://STATUN3106-LaMem.bg2782.net/)
 
 ## Data
 
