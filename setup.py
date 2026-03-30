@@ -13,5 +13,5 @@ else:
 sys.path.append('/content/STATUN3106-image-memorability')
 
 # ── SET YOUR DATA PATH HERE ────────────────────────────────
-DATA_PATH = "/content/drive/MyDrive/STATUN3106 - Applied Machine Learning/Final Project/STATUN3104_Final_Project"
+DATA_PATH = ""
 # ──────────────────────────────────────────────────────────
