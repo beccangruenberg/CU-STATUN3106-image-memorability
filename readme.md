@@ -4,11 +4,11 @@
 
 ## Blog Post Webpage
 
-http://statun3106-lamem.bg2782.com/
+[STATUN3106-LaMem.bg2782.net](https://STATUN3106-LaMem.bg2782.net)
 
 ## Data
 
-Data for prototype found here: https://drive.google.com/drive/folders/1Fg0yI3b-sTj-eAipAjZon-CvyojZuq23?usp=sharing
+Data for prototype found here: [Google Drive Folder (LionMail Only)](https://drive.google.com/drive/folders/1Fg0yI3b-sTj-eAipAjZon-CvyojZuq23?usp=sharing)
 
 ## Setup
 Add this cell to the top of every notebook before running. 
