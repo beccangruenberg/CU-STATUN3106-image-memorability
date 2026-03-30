@@ -1,5 +1,11 @@
 # Repo for our final project for STATUN3106
 
+## Blog Post Webpage
+
+http://statun3104-lamem.bg2782.com/
+
+## Data
+
 Data for prototype found here: https://drive.google.com/drive/folders/1Fg0yI3b-sTj-eAipAjZon-CvyojZuq23?usp=sharing
 
 ## Setup
