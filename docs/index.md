@@ -1,13 +1,13 @@
-# STATUN3104 - Applied Machine Learning - Final Project
+# STATUN3106 - Applied Machine Learning - Final Project
 ## What makes an Image Memorable?
 ##### Assesing if a CNN relies on human-interpretable features in the MIT Large-scale Image Memorability (LaMem) dataset
 
 ### GitHub Repository
 [github.com/beccangruenberg/CU-STATUN3106-image-memorability](https://github.com/beccangruenberg/CU-STATUN3106-image-memorability/)
 ### Data Folder
-[Google Drive Folder (Public)](https://drive.google.com/drive/folders/1Fg0yI3b-sTj-eAipAjZon-CvyojZuq23?usp=sharing)
+[Google Drive Folder (LionMail Only)](https://drive.google.com/drive/folders/1Fg0yI3b-sTj-eAipAjZon-CvyojZuq23?usp=sharing)
 ### Project Webpage
-[STATUN3104-LaMem.bg2782.net](https://STATUN3104-LaMem.bg2782.net)
+[STATUN3106-LaMem.bg2782.net](https://STATUN3106-LaMem.bg2782.net)
 
 ## Prototype
 

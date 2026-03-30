@@ -1,8 +1,10 @@
-# Repo for our final project for STATUN3106
+# STATUN3106 - Applied Machine Learning - Final Project
+### What makes an Image Memorable?
+#### Assesing if a CNN relies on human-interpretable features in the MIT Large-scale Image Memorability (LaMem) dataset
 
 ## Blog Post Webpage
 
-http://statun3104-lamem.bg2782.com/
+http://statun3106-lamem.bg2782.com/
 
 ## Data
 
