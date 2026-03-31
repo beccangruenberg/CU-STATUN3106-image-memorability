@@ -6,7 +6,7 @@
 
 ### Blog Post Webpage
 
-[STATUN3106-LaMem.bg2782.com](https://STATUN3106-LaMem.bg2782.com/)
+[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/
 
 ### Data
 
