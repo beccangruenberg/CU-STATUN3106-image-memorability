@@ -7,7 +7,7 @@
 ### Data Folder
 [Google Drive Folder (LionMail Only)](https://drive.google.com/drive/folders/1Fg0yI3b-sTj-eAipAjZon-CvyojZuq23?usp=sharing)
 ### Project Webpage
-[STATUN3106-LaMem.bg2782.net](https://STATUN3106-LaMem.bg2782.net)
+[STATUN3106-LaMem.bg2782.com](https://STATUN3106-LaMem.bg2782.com)
 
 ## Prototype
 
