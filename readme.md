@@ -6,7 +6,7 @@
 
 ### Blog Post Webpage
 
-[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/
+[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/)
 
 ### Data
 
