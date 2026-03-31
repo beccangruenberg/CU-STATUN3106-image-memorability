@@ -2,13 +2,19 @@
 ### What makes an Image Memorable?
 #### Assesing if a CNN relies on human-interpretable features in the MIT Large-scale Image Memorability (LaMem) dataset
 
-## Blog Post Webpage
+## Prototype
+
+### Blog Post Webpage
 
 [STATUN3106-LaMem.bg2782.com](https://STATUN3106-LaMem.bg2782.com/)
 
-## Data
+### Data
 
 Data for prototype found here: [Google Drive Folder (LionMail Only)](https://drive.google.com/drive/folders/1Fg0yI3b-sTj-eAipAjZon-CvyojZuq23?usp=sharing)
+
+### ML Pipeline
+
+[Prototype Notebook](https://github.com/beccangruenberg/CU-STATUN3106-image-memorability/tree/main/prototype)
 
 ## Setup
 Add this cell to the top of every notebook before running. 
