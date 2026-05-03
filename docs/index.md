@@ -1,4 +1,5 @@
-# STATUN3106 - Applied Machine Learning - Final Project
+# Columbia University - STATUN3106 - Applied Machine Learning - Spring 2026 - Final Project
+#### Benji Barnes, Beccan Gruenberg, Kayla Jiang, Mason Lau
 ## What makes an Image Memorable?
 ##### Assesing if a CNN relies on human-interpretable features in the MIT Large-scale Image Memorability (LaMem) dataset
 
