@@ -1,7 +1,7 @@
 import os
 import csv
 
-subset_folder = "lamem_subset"
+subset_folder = "lamem_final"
 
 split_files = [
     "/Users/kayla/Downloads/lamem/splits/train_1.txt",
@@ -9,7 +9,7 @@ split_files = [
     "/Users/kayla/Downloads/lamem/splits/test_1.txt"
 ]
 
-output_file = "image_list_with_scores.csv"
+output_file = "image_list_final_with_scores.csv"
 
 score_map = {}
 
@@ -29,6 +29,6 @@ with open(output_file, "w", newline="") as f:
 
     for img in images:
         score = score_map.get(img, "")
-        writer.writerow([f"lamem_subset/{img}", score])
+        writer.writerow([f"lamem_final/{img}", score])
 
-print("image_list_with_scores.csv created")
+print("image_list_final_with_scores.csv created")
