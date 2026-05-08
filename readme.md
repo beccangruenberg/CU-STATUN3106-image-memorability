@@ -3,15 +3,33 @@
 ## What makes an Image Memorable?
 #### Assesing if a CNN relies on human-interpretable features in the MIT Large-scale Image Memorability (LaMem) dataset
 
-## Prototype
+## Final Submission
 
-### Blog Post Webpage
+### Blog Post Webpage 
 
-[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/#blog-post)
+[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/)
 
 ### Data
 
-Data for prototype found here: [Google Drive Folder (LionMail Only)](https://drive.google.com/drive/folders/1Fg0yI3b-sTj-eAipAjZon-CvyojZuq23?usp=sharing)
+Data for final submission found here: [Google Drive Folder (LionMail Only)](https://drive.google.com/drive/folders/1l1U0WZRJIZfdvxtxu5VsTpBUQYYwxd_C)
+
+### Combined Notebook
+
+[Final Notebook](https://github.com/beccangruenberg/CU-STATUN3106-image-memorability/blob/main/final_submission/final_combined.ipynb)
+
+### Image Memorability Analyzer
+
+[Webpage](https://beccangruenberg-cu-statun3106-image-memorability.hf.space/)
+
+## Prototype
+
+### Prototype Blog Post Webpage
+
+[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype/#blog-post)
+
+### Data
+
+Data for prototype found here: [Google Drive Folder (LionMail Only)](https://drive.google.com/drive/folders/1bZ7mYIZ1_bSef4brn3s91gUYeG4JEruR)
 
 ### ML Pipeline
 
