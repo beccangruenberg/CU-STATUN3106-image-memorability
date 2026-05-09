@@ -7,8 +7,10 @@
 [github.com/beccangruenberg/CU-STATUN3106-image-memorability/blob/main/final_submission/final_combined.ipynb](https://github.com/beccangruenberg/CU-STATUN3106-image-memorability/blob/main/final_submission/final_combined.ipynb)
 ### Data Folder
 [Google Drive Folder (LionMail Only)](https://drive.google.com/drive/folders/1l1U0WZRJIZfdvxtxu5VsTpBUQYYwxd_C)
-### Project Webpage
+### Project Blog
 [github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/)
+### Image Memorability Analyzer
+[Webpage](https://beccangruenberg-cu-statun3106-image-memorability.hf.space/)
 
 ## Blog Post
 
