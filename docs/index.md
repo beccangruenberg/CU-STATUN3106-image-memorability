@@ -16,6 +16,8 @@
 
 #### Introduction
 
+![](./images/image_1.png)
+
 These are some of the first images that pop up when you type *“Top 10 Most Famous Images of All Time”* on Google. Why are they so flipping iconic? Is it the strangeness of those awkward drooping clocks in Dalí’s *The Persistence of Memory*? Is it the way in which a naked child running from danger evokes some sort of primal terror alert in us? Is it the awesome color contrast between Muhammad Ali’s red gloves and crisp white shorts? Or is it maybe even the fact that Bertie’s tongue simply forces us to giggle? Whatever the reason, these images are unbelievably sticky. And yet, most people would struggle to recall the last Instagram Reel they watched, or any one of the billboards they drove past on the way to work this morning. So then, why are some images more memorable than others? 
 
 In this project, we approach the problem computationally. We train a convolutional neural network (CNN) on the Large-Scale Image Memorability (LaMem) dataset to predict a memorability score for any given image. We then ask a deeper question: what visual features actually drive these predictions? To investigate this, we conduct a targeted ablation study that systematically blurs human faces and measures the resulting shift in predicted memorability scores. We pair this with Grad-CAM visualizations, which reveal which spatial regions of an image the model attends to when forming its prediction. Finally, we package the full pipeline into an interactive Gradio interface that allows any user to upload a photo and receive a memorability score alongside an attention heatmap and a blurred-face comparison. 
@@ -26,6 +28,8 @@ The potential impact of this is profound. A memorable anti-smoking ad changes wh
 #### Background
 
 At the heart of our investigation lies a fascinating cognitive truth: memorability is not a flighty, subjective whim, but an incredibly consistent property of the images themselves. As demonstrated in the landmark study by Isola et al. (2011), disparate viewers tend to remember and forget the exact same images at remarkably similar rates. This suggests that the “stickiness” of a visual is an intrinsic characteristic of the image, rather than a byproduct of who is looking at it. Consider, for instance, the presence of human faces - perhaps the single most robust predictor of memorability ever identified. Our brains even possess dedicated neural machinery, the Fusiform Face Area (FFA), specifically tuned for facial perception and recognition. When faces appear, the FFA “lights up” in fMRI scans, and this selective processing power seems to translate directly into memory retention (Kanwisher et al., 1997). Beyond faces, several other primary visual drivers reliably signal the brain to pay attention and encode, as summarized in the table below:
+
+![](./images/image_2.png)
 
 While the table above provides a tidy summary of visual “stickiness”, the literature is actually rife with fascinating contradictions. The first is *typicality*. Some studies argue that atypical, unusual content is more memorable (Bainbridge et al., 2013). Others find the opposite - that typical images are remembered better than unusual ones (Vokey & Read, 1992). The second is *emotion*. While it is true Khosla et al. (2015) found images depicting fear and disgust score higher than neutral ones, the broader claim that emotional arousal is a major driver of memorability is heavily contested. Wakeland-Hart & Aly. (2025) ran the most recent test and found that valence and arousal accounted for less than 8% of the variance in memorability scores. So emotion contributes, but it’s nowhere near a primary engine. Hopefully the model we build can help provide some clarification on the role typicality and emotional valence play in memorability.
 
@@ -112,6 +116,10 @@ Five types of image modifications were evaluated against their paired originals 
 
 The face blur modification produced a mean delta of −0.0007 (std = 0.0183) across 999 pairs, where a slight majority (51.5%) of images saw an increase in predicted memorability score. These results were not statistically significant (p = 0.259), so we cannot definitively say that the face blur ablation alone is able to influence the memorability prediction in any meaningful way. 
 
+![](./images/figure_1.png)
+
+![](./images/figure_2.png)
+
 ##### Grayscale
 
 With the grayscale modification, we saw a mean delta of +0.0089 (std = 0.0516) across 1,000 pairs, with a majority (55.6%) of these images being predicted as more memorable compared to the unmodified images. Our results were statistically significant (p < 0.0001), meaning this grayscale modification was the only condition that reliably produced an increase in predicted memorability. 
@@ -141,6 +149,11 @@ Face Blur        | 999     | 0.7360              | 0.7354             | −0.000
 ##### Qualitative Results
 
 In addition to the statistical comparisons of memory scores before/after ablations were made, we generated Grad-CAM visualizations to see which spatial regions of each image had the most influence on the model’s predicted memory score. For a subset of image pairs, heatmaps were generated for both the original and ablated versions, which were compared side-by-side to determine any consequential shifts in the model’s attention. Warmer regions indicate stronger contributions to the predicted score, while cooler regions indicate weaker contributions to the predicted score. Below are select pairs of these heatmaps comparing model attention in the original images to their face-blurred counterparts:
+
+![](./images/figure_3.png)
+![](./images/figure_4.png)
+![](./images/figure_5.png)
+
 
 #### Discussion
 
