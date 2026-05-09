@@ -3,6 +3,8 @@
 ## What makes an Image Memorable?
 ##### Assesing if a CNN relies on human-interpretable features in the MIT Large-scale Image Memorability (LaMem) dataset
 
+### GitHub Repo
+[github.com/beccangruenberg/CU-STATUN3106-image-memorability](https://github.com/beccangruenberg/CU-STATUN3106-image-memorability)
 ### Compiled Notebook
 [github.com/beccangruenberg/CU-STATUN3106-image-memorability/blob/main/final_submission/final_combined.ipynb](https://github.com/beccangruenberg/CU-STATUN3106-image-memorability/blob/main/final_submission/final_combined.ipynb)
 ### Data Folder
@@ -11,6 +13,8 @@
 [github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/)
 ### Image Memorability Analyzer
 [Webpage](https://beccangruenberg-cu-statun3106-image-memorability.hf.space/)
+##### *Prototype Blog*
+[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype/)
 
 ## Blog Post
 
