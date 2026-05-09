@@ -16,6 +16,8 @@
 
 #### Introduction
 
+! (images/image_1.png)
+
 These are some of the first images that pop up when you type *“Top 10 Most Famous Images of All Time”* on Google. Why are they so flipping iconic? Is it the strangeness of those awkward drooping clocks in Dalí’s *The Persistence of Memory*? Is it the way in which a naked child running from danger evokes some sort of primal terror alert in us? Is it the awesome color contrast between Muhammad Ali’s red gloves and crisp white shorts? Or is it maybe even the fact that Bertie’s tongue simply forces us to giggle? Whatever the reason, these images are unbelievably sticky. And yet, most people would struggle to recall the last Instagram Reel they watched, or any one of the billboards they drove past on the way to work this morning. So then, why are some images more memorable than others? 
 
 In this project, we approach the problem computationally. We train a convolutional neural network (CNN) on the Large-Scale Image Memorability (LaMem) dataset to predict a memorability score for any given image. We then ask a deeper question: what visual features actually drive these predictions? To investigate this, we conduct a targeted ablation study that systematically blurs human faces and measures the resulting shift in predicted memorability scores. We pair this with Grad-CAM visualizations, which reveal which spatial regions of an image the model attends to when forming its prediction. Finally, we package the full pipeline into an interactive Gradio interface that allows any user to upload a photo and receive a memorability score alongside an attention heatmap and a blurred-face comparison. 
