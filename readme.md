@@ -7,7 +7,7 @@
 
 ### Blog Post Webpage 
 
-[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/)
+[projects.beccan.gruenbergs.net/CU-STATUN3106-image-memorability](https://projects.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/)
 
 ### Data
 
@@ -25,7 +25,7 @@ Data for final submission found here: [Google Drive Folder (LionMail Only)](http
 
 ### Prototype Blog Post Webpage
 
-[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype/#blog-post)
+[projects.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype](https://projects.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype/#blog-post)
 
 ### Data
 
