@@ -10,11 +10,11 @@
 ### Data Folder
 [Google Drive Folder (LionMail Only)](https://drive.google.com/drive/folders/1l1U0WZRJIZfdvxtxu5VsTpBUQYYwxd_C)
 ### Project Blog
-[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/)
+[projects.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/](https://projects.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/)
 ### Image Memorability Analyzer
 [Webpage](https://beccangruenberg-cu-statun3106-image-memorability.hf.space/)
 ##### *Prototype Blog*
-[github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype](https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype/)
+[projects.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype](https://projects.beccan.gruenbergs.net/CU-STATUN3106-image-memorability/prototype/)
 
 ## Blog Post
 
